@@ -5,11 +5,17 @@
 ![board photo without elements](./images/agb-e05-01_photo_wo_elements_2.jpg)
 Board has ROM-chip, flash chip for saves and RTC. Used for third gen pokemon games(Ruby, Sapphire and Emerald) 
 
+[PCB layout and schematic](/general/boards/AGB-E05-01/)
+
 ## ROM chips
 
 ### 64M (Pokemon Ruby and Sapphire)
 
 - MX23L6407-12C [datasheet for similar chip](./datasheets/MX23L6410_MacronixInternational.pdf)
+
+### 128M (Pokemon Emerald)
+
+- MX23L12807-12C
 
 # Used sources
 
